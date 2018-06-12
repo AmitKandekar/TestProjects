@@ -9,7 +9,7 @@ Technical Details :
 
 1. This project is created with .net 4.5
 2. Entity Framework 5.0 is used as ORM
-3. Unity framework used for dependency injectons.
+3. Unity framework used for dependency injections.
 
 
 
